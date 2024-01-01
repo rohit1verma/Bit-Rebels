@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<sting.h>
 int main()
 {
 int pid[15];
