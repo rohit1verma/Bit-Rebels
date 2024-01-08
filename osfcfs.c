@@ -2,6 +2,7 @@
 void main(){
 int p[10],bt[10],tst[10],wt[10];
 int n,i;
+//printf("\nFCFS Program\n");
 printf("Enter number of processes:");
 scanf("%d",&n);
 for(i=0;i<n;i++){
