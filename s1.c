@@ -1,2 +1,2 @@
-printf("College day");
+printf("College day\n");
 printf("Hello\n");
