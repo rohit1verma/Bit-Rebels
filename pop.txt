@@ -1,0 +1,12 @@
+void pop()
+{
+    if (top == -1)
+    {
+        printf("\n Underflow!!");
+    }
+    else
+    {
+        printf("\n Popped element: %d", inp_array[top]);
+        top = top - 1;
+    }
+}
