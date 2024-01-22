@@ -57,4 +57,3 @@ getch();
 return 0;
 }
 
-mainString,
