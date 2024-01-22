@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #include<stdio.h>
 void main(){
 printf("Hello");
 }
+=======
+my name is rohit
+this is git lab
+today is monday
+>>>>>>> 9f306db9a0de12fe309f9a17ade5abed45ab7390
